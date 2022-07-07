@@ -3,11 +3,11 @@
 link Hosting : http://pemrorizki.infinityfreeapp.com/
 
 
-Add.php digunakan unutk post 
+Add.php digunakan untuk post 
 
-Delete.php digunakan unutk menghapus data submit 
+Delete.php digunakan untuk menghapus data submit 
 
-Edit.php digunakan unutk mengedit data yang telah disubmit
+Edit.php digunakan untuk mengedit data yang telah disubmit
 
 index.php digunakan untuk membuat form untuk login
 
