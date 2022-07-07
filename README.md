@@ -2,6 +2,13 @@
 
 link Hosting : http://pemrorizki.infinityfreeapp.com/
 
+nama kelompok :
+Raynan sakti 
+Rizki Setiawan 191011401194
+Roby Maulana
+Sandra
+ramdani firdaus
+
 
 Add.php digunakan untuk post 
 
