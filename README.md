@@ -1,6 +1,7 @@
 # rizkirone-191011401194_Rizki-Setiawan_UAS_PemroW_06TPLM007eb2
 
 link Hosting : http://pemrorizki.infinityfreeapp.com/
+username rizki , sandi 123
 
 nama kelompok :
 Raynan sakti 
