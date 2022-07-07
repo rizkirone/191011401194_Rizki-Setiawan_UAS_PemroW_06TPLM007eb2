@@ -4,11 +4,11 @@ link Hosting : http://pemrorizki.infinityfreeapp.com/
 username rizki , sandi 123
 
 nama kelompok :
-Raynan sakti 
-Rizki Setiawan 191011401194
-Roby Maulana
-Sandra
-ramdani firdaus
+Raynan sakti, 
+Rizki Setiawan,
+Roby Maulana,
+Sandra metia
+ramdani firdaus,
 
 
 Add.php digunakan untuk post 
@@ -17,11 +17,11 @@ Delete.php digunakan untuk menghapus data submit
 
 Edit.php digunakan untuk mengedit data yang telah disubmit
 
-index.php digunakan untuk membuat form untuk login
+index.php digunakan untuk membuat form untuk login  dibuat rizki setiawan
 
-validateuser.php digunakan untuk mencek velidasi username dan password berdasarkan data tbl_login yang teah diinsert pada database
+validateuser.php digunakan untuk mencek velidasi username dan password berdasarkan data tbl_login yang teah diinsert pada database dibuat rizki setiawan
 
-input.php digunakan sebagai form untuk submit
+input.php digunakan sebagai form untuk submit dibuat rizki setiawan
 
 koneksi.php digunakan untuk mengkoneksikan ke database 
 
