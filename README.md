@@ -10,6 +10,7 @@ Roby Maulana,
 Sandra metia,
 ramdani firdaus,
 
+crud.sql database
 
 Add.php digunakan untuk post 
 
