@@ -30,5 +30,5 @@ logout.php digunakan untuk mendestroy atau keluar dari halaman input dan kembali
 
 show.php digunakan unutk melihat halaman data pemesanan yang telah di submit
 
-priviewDocument.ph digunakan untuk mencetak report pdf
+priviewDocument.php digunakan untuk mencetak report pdf
 
